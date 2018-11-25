@@ -11,7 +11,7 @@ class ServicesOffered extends Component {
         If not, let us help you improve the search performance and interaction metrics for your web site.</p>
         
         <h2>Interactive landing Pages</h2>
-        <p>We will create a well designed ,vibrant, and engaging landing page the represents your brand with class 
+        <p>We will create a well designed ,vibrant, and engaging landing page that represents your brand with class 
         and promotes your business on the web.</p>
 
         <h2>Progressive Web Apps</h2>

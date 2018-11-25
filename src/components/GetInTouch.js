@@ -4,9 +4,9 @@ class GetInTouch extends Component {
     return (
       <div className = "ContactInfo">
 
-    <ul> Get In Touch => | 
-        <li>email: codefucircle@gmail.com | </li>
-        <li>phone: (856)625-3130 | </li>
+    <ul> Get In Touch 
+        <li>email: codefucircle@gmail.com  </li>
+        <li>phone: (856)625-3130  </li>
         <li><a href = "https://www.facebook.com/bkfwebdev/"> find us on facebook</a></li>
     </ul>
 
